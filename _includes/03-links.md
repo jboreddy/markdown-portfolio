@@ -1,1 +1,1 @@
-[JP Profile] (https://github.com/jboreddy)
+[JP Profile](https://github.com/jboreddy)
